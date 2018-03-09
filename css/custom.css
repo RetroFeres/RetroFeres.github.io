@@ -45,7 +45,6 @@ h3.sectionTitle {
 .altWrap {
 	border-top: 1px solid #eee;
 	border-bottom: 1px solid #eee;
-	background-color: #f7f7f7;
 }
 
 /**********************************************************************/
@@ -268,7 +267,7 @@ h3.sectionTitle {
 	padding: 10px 10px 20px;
 }
 #pricingWrap .priceTable .price {
-	background: #F2F2F2;
+	background: none;
 	border-bottom: 1px solid #E5E5E5;
 	border-top: 1px solid #E5E5E5;
 	color: #333333;
